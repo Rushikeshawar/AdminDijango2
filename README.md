@@ -1,5 +1,4 @@
-# Admin Login
-- Admin credentials (rushi / 1234).
+
 # Digando - Admin Panel
 
 **Tech Stack:**
@@ -7,6 +6,9 @@
 - **Backend:** Django
 - **Database:** SQLite3
 - **Authentication:** JWT (JSON Web Token)
+
+# Admin Login Details
+- Admin credentials (rushi / 1234). 
 
 ## Project Overview
 Digando is an admin panel that allows admins to manage products in an e-commerce platform. The application provides features like adding, viewing, updating, and deleting products. Admin access is secured via JWT authentication. The backend is built using Django with SQLite as the database.
